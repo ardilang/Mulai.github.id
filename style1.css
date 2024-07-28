@@ -1,0 +1,33 @@
+p {
+    color: mediumblue;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    
+  }
+  h1{
+    font-size:100px;
+  }
+  h2{
+    font-size: 90px;
+  }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited{
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover{
+  color:red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active{
+  color: hotpink;
+  background-color: transparent;
+  text-decoration: underline;
+}
